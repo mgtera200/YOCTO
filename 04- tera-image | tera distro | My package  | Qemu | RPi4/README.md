@@ -39,7 +39,8 @@ Example for simple hello world:
 Example for the recipe:
 
 
-![hello-c bb](https://github.com/mgtera200/Embedded-Linux-NTI/assets/127119775/5b47a2c6-ba47-43b1-a733-d94ec75bb2c6)
+![edit](https://github.com/mgtera200/YOCTO/assets/127119775/e8f941d2-8d5f-4f6b-976f-695ec48e84ab)
+
 
 
 ## 4. Add C Package to Image
