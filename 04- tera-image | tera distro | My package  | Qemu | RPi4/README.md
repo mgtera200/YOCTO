@@ -58,6 +58,8 @@ To change the hostname of your custom image using a `.bbappend` file in a custom
 - Add the necessary modifications to change the hostname in the `.bbappend` file.
 
 Example:
+
+
 ![bbappend](https://github.com/mgtera200/Embedded-Linux-NTI/assets/127119775/b9b7088b-cc5b-4eea-be08-d2fe3859f89b)
 
 ## 6. Change Download and Sstate to Shared Folder
@@ -76,6 +78,8 @@ To create a custom distribution, follow these steps:
 - Include your custom distribution in the `local.conf` file of your Yocto build.
 
 Example for systemd distro:
+
+
 ![systemd](https://github.com/mgtera200/Embedded-Linux-NTI/assets/127119775/42a5002e-83b6-4d24-934e-74e1105c837a)
 
 ## 8. Build Your Customized Image for qemux86_64 Machine
@@ -93,6 +97,8 @@ To test your customized image using runqemu, follow these steps:
 - Verify that the image boots successfully and is functional within the QEMU emulator environment.
 
 My result:
+
+
 ![result](https://github.com/mgtera200/Embedded-Linux-NTI/assets/127119775/2bc248d4-37de-4ef3-a668-a1cb4b0df80c)
 
 ## 10. Download the meta-raspberrypi Layer and Edit local.conf
@@ -121,5 +127,7 @@ To test your customized image on your Raspberry Pi 4 hardware using SSH, follow 
  - Verify that the customized image is functional and all desired features are working as expected.
 
 My final result:
+
+
 ![rpi4](https://github.com/mgtera200/Embedded-Linux-NTI/assets/127119775/6a5b2f99-af14-491b-b4c6-8aafb09b15e5)
 
