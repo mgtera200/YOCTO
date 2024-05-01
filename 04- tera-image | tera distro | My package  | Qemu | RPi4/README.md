@@ -30,9 +30,15 @@ To create a Hello World recipe using C and compile it within a meta-layer, follo
 - Write the recipe to compile and install the C program into the working directory of bitbake during the build process.
 
 Example for simple hello world:
+
+
 ![main c](https://github.com/mgtera200/Embedded-Linux-NTI/assets/127119775/87f8859f-725d-473e-9f71-64f61770cefb)
 
+
+
 Example for the recipe:
+
+
 ![hello-c bb](https://github.com/mgtera200/Embedded-Linux-NTI/assets/127119775/5b47a2c6-ba47-43b1-a733-d94ec75bb2c6)
 
 
